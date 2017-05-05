@@ -11,12 +11,12 @@
             "tag": "c4x"
         }, 
         "displayname": "cell-biology-I.jpg", 
-        "filename": "asset-v1:Amritha-University+CBI-AU+Anytime+type@asset+block@cell-biology-I.jpg", 
-        "import_path": null, 
+        "filename": "asset-v1:Amrita-University+CBI-AU+Anytime+type@asset+block@cell-biology-I.jpg", 
+        "import_path": "cell-biology-I.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "Amritha-University", 
+            "Amrita-University", 
             "CBI-AU", 
             "thumbnail", 
             "cell-biology-I.jpg", 
