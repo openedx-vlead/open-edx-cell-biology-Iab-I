@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "CBI-AU", 
+            "course": "biotech22", 
             "name": "cell-biology-I.jpg", 
-            "org": "Amrita-University", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "cell-biology-I.jpg", 
-        "filename": "asset-v1:Amrita-University+CBI-AU+Anytime+type@asset+block@cell-biology-I.jpg", 
+        "filename": "asset-v1:Virtual-Labs+biotech22+Anytime+type@asset+block@cell-biology-I.jpg", 
         "import_path": "cell-biology-I.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "Amrita-University", 
-            "CBI-AU", 
+            "Virtual-Labs", 
+            "biotech22", 
             "thumbnail", 
             "cell-biology-I.jpg", 
             null
